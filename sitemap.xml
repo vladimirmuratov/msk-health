@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://msk-health.ru/</loc>
+        <loc>https://msk-health.ru/index.html</loc>
     </url>
     <url>
-        <loc>https://msk-health.ru/about-us</loc>
+        <loc>https://msk-health.ru/about-us.html</loc>
     </url>
     <url>
-        <loc>https://msk-health.ru/services</loc>
+        <loc>https://msk-health.ru/services.html</loc>
     </url>
     <url>
-        <loc>https://msk-health.ru/directions</loc>
+        <loc>https://msk-health.ru/directions.html</loc>
     </url>
     <url>
-        <loc>https://msk-health.ru/contact</loc>
+        <loc>https://msk-health.ru/contact.html</loc>
     </url>
 </urlset>
